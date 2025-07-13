@@ -71,8 +71,6 @@ El Real Betis apuesta por un modelo sostenible basado en:
 |-----------------|--------------|----------------------------|
 | ![LaLiga](img/liga_sports.webp) <br> **LaLiga EA Sports** | Clasificación europea (Top 6) | 🇪🇸 Competición nacional |
 | ![Copa del Rey](img/copa_del_rey.webp) <br> **Copa del Rey** | Alcanzar semifinales | 🏆 Torneo eliminatorio |
-| ![Europa League](img/europa.webp) <br> **UEFA Europa League** | Llegar a cuartos o más | 🌍 Competición europea |
-
 
 ## 📎 Conclusión Profesional
 
