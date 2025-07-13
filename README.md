@@ -76,10 +76,3 @@ El Real Betis apuesta por un modelo sostenible basado en:
 
 La plantilla 2025/26 del **Real Betis Balompié** está diseñada para competir al más alto nivel, con un equilibrio entre rendimiento inmediato y desarrollo a medio plazo. La gestión deportiva del club refleja madurez, ambición y compromiso con una identidad de juego clara.
 
-> "El Betis de hoy no solo compite, también convence."  
-> — *Resumen técnico interno*
-
----
-
-📌 *Este documento es una presentación profesional de carácter informativo. Para uso interno, institucional o de prensa especializada.*
-
